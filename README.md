@@ -1,6 +1,7 @@
 # STATA_Analyses
 
-##Catalogue Description and Objectives
+**Description and Objectives
+
 This course is a survey of and practicum in the basic techniques of quantitative research,
 including measurement, data description, hypothesis testing, and the use of appropriate statistical
 techniques. This hands-on course uses STATA, a software package of standard statistical
@@ -18,14 +19,16 @@ read, comprehend and criticize existing studies that utilize these techniques; a
 apply these statistical techniques, in conjunction with STATA, to test hypotheses as part of a
 comprehensive research design.
 
-##Prerequisites
+**Prerequisites
+
 The course assumes students possess a basic understanding of descriptive statistics and the
 fundamentals of research design, as elaborated in Statistics 130M: Elementary Statistics and
 Political Science/Geography 308: Research Design. Both courses are pre-requisites for this
 course. If you have not successfully completed both courses you will not be allowed to take
 POLS/GEO 418
 
-##Required Book
+**Required Book
+
 Pollock III, Philip H. 2019. The Essentials of Political Analysis. Sixth Edition. Washington, DC:
 CQ Press. ISBN 978-1506379616.
 and optional companion:
@@ -34,9 +37,10 @@ Washington, DC: CQ Press. ISBN 978-1-5063-7970-8.
 Required Software
 We will use STATA/IC v. 15 this semester.
 
-##Course Schedule
+**Course Schedule
 
-####Part 1: Introduction and Measurement
+*Part 1: Introduction and Measurement
+
 May 18th: Course Overview—What are Quantitative Methods and Data Management
 Reading: Pollock (Introduction)
 Assignment: Problem Set 1
@@ -48,7 +52,8 @@ Reading: Pollock (Chapter 2)
 Due: Problem Set 1
 Assignment: Problem Set 2
 
-####Part II: Hypothesis Testing and Design
+*Part II: Hypothesis Testing and Design
+
 May 25th: No Class—Memorial Day
 May 27th: Hypothesis Testing—The Logic of Comparisons
 Reading: Pollock (Chapter 3)
@@ -59,7 +64,8 @@ Assignment: Problem Set 3
 June 1st: Research Design III—The Different Types of Associations Between Variables
 Reading: Pollock (Chapter 5)
 
-####Part III: Statistical Inference
+*Part III: Statistical Inference
+
 June 3rd: Foundations—Presentation
 Reading: Pollock (Chapter 6)
 June 5th: Significance Tests
@@ -70,7 +76,8 @@ June 8th: Open Date/Catchup
 POLS	418/GEOG	418:	Quantitative	Methods
 Summer	2020
 
-####Part IV: Regression Analysis
+*Part IV: Regression Analysis
+
 June 10th: Correlation and Bivariate Regression
 Reading: Pollock (Chapter 8)
 Due: Problem Set 4
